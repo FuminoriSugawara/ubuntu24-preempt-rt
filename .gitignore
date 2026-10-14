@@ -1,0 +1,12 @@
+/build/
+/work/
+/artifacts/
+/logs/
+/downloads/*.xz
+/.private/
+/public/
+*.log
+*.csv
+
+/release-state/
+__pycache__/
